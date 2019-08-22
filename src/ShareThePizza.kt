@@ -1,7 +1,7 @@
 fun main() {
-    sliceOfPie(11, 5, 2)
+    shareThePizza(11, 5, 2)
 }
-fun sliceOfPie(totalSlices: Int, recipients: Int, slicesEach: Int) {
+fun shareThePizza(totalSlices: Int, recipients: Int, slicesEach: Int) {
     if (recipients * slicesEach < totalSlices) {
         println(true)
     } else {
