@@ -1,7 +1,7 @@
 internal object SumOfArray {
     @JvmStatic
     fun main(args: Array<String>) {
-        val array = intArrayOf(10, 20, 30, 40, 50, 10)
+        val array = intArrayOf(1,2,3,4,5,6,7,8,9,10)
         var sum = 0
 
         for (num in array) {
