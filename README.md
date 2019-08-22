@@ -3,7 +3,7 @@
 
 
 **KOTLIN CODING CHALLENGES**
-This repository contains a set of Kotlin programming challenges together with the solutions.
+This repository contains a set of Kotlin coding challenges together with the solutions.
 
 **Challenge Questions:**
 All of the challenges are listed below.
