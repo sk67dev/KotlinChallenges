@@ -7,5 +7,4 @@ fun compareStrings(str1: String, str2: String) {
     }else {
         println("false")
     }
-    return
 }
