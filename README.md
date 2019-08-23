@@ -1,4 +1,4 @@
-# KotlinChallenges
+# Kotlin Challenges :computer:
 
 
 
@@ -31,13 +31,13 @@ CHALLENGES:
     depending on whether the total number of characters in the first string is equal to the 
     total number of characters in the second string.
 
-**5.  Concatenate Arrays:**
+**5.  Concatenate Arrays:** :
     Create a function to concatenate two integer arrays.
 
 **6.  Count The Vowels:**
     Create a function that takes a string and print the number of vowels contained within it.
     
-**7.  Date & Time:**
+**7.  Date & Time:** :date:
     - Print the current date and time in default format.
     - Print the current date and time in localised style.
     - Print the current date and time with a pattern.
@@ -78,11 +78,11 @@ CHALLENGES:
 **16. Remove Characters:**
     Remove the first and last characters from a string.
     
-**17. Share the Pizza:**
+**17. Share the Pizza:** :pizza:
     Create a function that determines whether or not it's possible to share the pizza fairly given these three
     parameters:
     Total slices, Recipients, Slices each.
-    It's fine not to use the entire pizza (in real life though...not really! :))
+    It's fine not to use the entire pizza (in real life though...not really! :smile:
     Print true if the pizza can be shared equally, otherwise print false.  
 
 **18. Sum Elements of Array:**
