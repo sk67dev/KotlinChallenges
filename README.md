@@ -96,7 +96,7 @@ CHALLENGES:
 **14. NameChange:**    
     Change your surname using a constructor, initializer block and object instance.
     
-  **[Solution](src/NameChange.kt)**
+  **[Solution](NameChange.kt)**
    
 **15. Palindrome:**
     Given a string of text, print true or false indicating whether or not the text is a palindrome. 
