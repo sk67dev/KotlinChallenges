@@ -16,5 +16,5 @@ class NameChange(_oldName: String, _newName: String) {
     }
 }
 //Object instance
-val person1 = NameChange("Sally Meadows", "Sally Winterbottom")
+val person = NameChange("Sally Meadows", "Sally Winterbottom")
 
