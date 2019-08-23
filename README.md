@@ -81,7 +81,7 @@ CHALLENGES:
     the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five 
     print “FizzBuzz”.
     
-  **[Solution](src/FizzBuzz.kt)**
+  **[Solution](FizzBuzz.kt)**
 
 **12. Capitalize Letters:** 
     Create a function that converts the first character of each word to uppercase. Print the newly formatted string.
