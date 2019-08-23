@@ -17,6 +17,7 @@ CHALLENGES:
     Write a function that takes two numbers and returns if they should be added, subtracted, 
     multiplied or divided to get 24. If none of the operations can give 24, print a 
     string to reflect this.
+    [link](src/AddSubtractMultiplyOrDivide.kt)
 
   **Area of triangle:**
     Write a function that takes the base and height of a triangle and print its area.
