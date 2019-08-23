@@ -42,7 +42,7 @@ CHALLENGES:
 **5. Concatenate Arrays:** :
     Create a function to concatenate two integer arrays.
     
-  **[Solution](src/ConcatenateArrays.kt)**
+  **[Solution](ConcatenateArrays.kt)**
 
 **6. Count The Vowels:**
     Create a function that takes a string and print the number of vowels contained within it.
