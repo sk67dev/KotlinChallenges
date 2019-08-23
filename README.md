@@ -66,22 +66,25 @@ CHALLENGES:
     
 **13. Multilpy and Skip:**
     Print the multiples of 5 whilst skipping the multiples of 3.
+    
+**14. NameChange:**    
+    Change your surname using a constructor, initializer block and object instance.
    
-**14. Palindrome:**
+**15. Palindrome:**
     Given a string of text, print true or false indicating whether or not the text is a palindrome. 
     A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, 
     such as "madam" or "racecar". You can also create an int palindrome.
 
-**15. Remove Characters:**
+**16. Remove Characters:**
     Remove the first and last characters from a string.
     
-**16. Share the Pizza:**
+**17. Share the Pizza:**
     Create a function that determines whether or not it's possible to share the pizza fairly given these three
     parameters:
     Total slices, Recipients, Slices each.
     It's fine not to use the entire pizza (in real life though...not really! :))
     Print true if the pizza can be shared equally, otherwise print false.  
 
-**17. Sum Elements of Array:**
+**18. Sum Elements of Array:**
     Given an array of integers, find the sum of its elements.
     For example, if the array = [1,2,3,4,5,6,7,8,9,10] print the answer of 55 (1+2+3+4+5+6+7+8+9+10 = 55)
