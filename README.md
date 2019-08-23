@@ -22,7 +22,7 @@ CHALLENGES:
     Write a function that takes the base and height of a triangle and print its area.
    
 **3.  Check Num:** 
-    Have the function checkNum(num1,num2) take both parameters being passed and return the 
+    Have the function ```checkNum(num1,num2)``` take both parameters being passed and return the 
     string true if num2 is greater than num1, otherwise return the string false.
     If the parameter values are equal to each other then return the string -1.
 
@@ -87,4 +87,4 @@ CHALLENGES:
 
 **18. Sum Elements of Array:**
     Given an array of integers, find the sum of its elements.
-    For example, if the array = [1,2,3,4,5,6,7,8,9,10] print the answer of 55 (1+2+3+4+5+6+7+8+9+10 = 55)
+    For example, if the ```array = [1,2,3,4,5,6,7,8,9,10]``` print the answer of 55 (1+2+3+4+5+6+7+8+9+10 = 55)
