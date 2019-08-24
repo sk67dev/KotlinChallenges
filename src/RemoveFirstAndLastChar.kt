@@ -4,5 +4,5 @@ fun String.removeFirstAndLastChar():
 fun main() {
     var fullName = "FRED BROWN"
     var result = fullName.removeFirstAndLastChar()
-    println("Name without first and last character: $result")
+    println("Name without first and last characters: $result")
 }
