@@ -4,12 +4,13 @@
 
 **KOTLIN CODING CHALLENGES**
 This repository contains a set of Kotlin coding challenges together with the solutions.
+**Kotlin Challenges Part 2 is [here](https://github.com/SK1dev/KotlinChallengesPart2)**
 
 **Challenge Questions:**
 All of the challenges are listed below.
 
 **Solutions:**
-The inks to solutions are provided below the questions.
+The links to solutions are provided below the questions.
 
 CHALLENGES:
 
