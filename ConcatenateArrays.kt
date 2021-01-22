@@ -1,16 +1,13 @@
-import java.util.*
+fun main(args: Array<String>) {
+    val A = intArrayOf(1, 2, 3)
+    val B = intArrayOf(4, 5)
 
-fun main() {
+    val sumAB = sumArrays(A,B)
 
-    val array1 = intArrayOf(1,2,3)
-    val array2 = intArrayOf(4,5,6)
+    println(sumAB.contentToString())
 
-    val aLen = array1.size
-    val bLen = array2.size
-    val result = IntArray(aLen + bLen)
+}
 
-    System.arraycopy(array1, 0, result, 0, aLen)
-    System.arraycopy(array2, 0, result, aLen, bLen)
-
-    println(Arrays.toString((result)))
+fun sumArrays(a: IntArray, b: IntArray): IntArray {
+    return a + b
 }
